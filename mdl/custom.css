@@ -1,0 +1,25 @@
+#view-source {
+    position: fixed;
+    display: block;
+    right: 0;
+    bottom: 0;
+    margin-right: 40px;
+    margin-bottom: 40px;
+    z-index: 900;
+  }
+.cntr-element{
+    margin:0 auto;
+}
+.mdl-layout__drawer .mdl-navigation .mdl-navigation__link:hover {
+    color: #000000 !important;
+}
+.mdl-layout__drawer .mdl-navigation .mdl-navigation__link:hover i{
+    color: #000000 !important;
+}
+.mdl-layout__drawer .mdl-navigation .mdl-navigation__link {
+    padding: 16px 10px !important;
+}
+.custmenu .mdl-menu{
+    width:240px;
+    position:inherit !important;
+}
